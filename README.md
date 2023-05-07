@@ -1,4 +1,4 @@
-As an application based on your Red-Black Tree implementation, with a simple text-based user interface, supporting the following functionalities:
+An application based on your Red-Black Tree implementation, with a simple text-based user interface, supporting the following functionalities:
 
 1-Load Dictionary:
 You will be provided with a text file, “dictionary.txt", containing a list of words. Each word will be in a separate line.
